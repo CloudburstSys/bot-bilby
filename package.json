@@ -4,15 +4,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jalenluorion/Bot-Bilby-1.git"
+    "url": "git+https://github.com/The-Heeler-House/Bot-Bilby.git"
   },
   "author": "jalenluorion <<>",
   "license": "MIT",
   "description": "### Node JS Version of Bot Bilby",
   "bugs": {
-    "url": "https://github.com/jalenluorion/Bot-Bilby-1/issues"
+    "url": "https://github.com/The-Heeler-House/Bot-Bilby/issues"
   },
-  "homepage": "https://github.com/jalenluorion/Bot-Bilby-1#readme",
+  "homepage": "https://github.com/The-Heeler-House/Bot-Bilby#readme",
   "dependencies": {
     "@discordjs/builders": "^1.2.0",
     "@discordjs/rest": "^0.3.0",
